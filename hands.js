@@ -165,7 +165,7 @@ function getPlayers(lines) {
   });
 }
 
-function readTextFile(filePath) {
+function readTextFile() {
   var txtFile = new XMLHttpRequest();
   txtFile.open(
     "GET",
@@ -179,7 +179,6 @@ function readTextFile(filePath) {
         // Makes sure it's found the file.
         allText = txtFile.responseText;
         lines = txtFile.responseText.split("\n"); // Will separate each line into an array
-        console.log("File read");
       }
     }
   };

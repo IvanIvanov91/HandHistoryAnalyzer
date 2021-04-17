@@ -1,4 +1,5 @@
 var hands = [],
+  replays = [],
   rake,
   firstPlayerRake,
   secondPlayerRake,
@@ -56,11 +57,11 @@ function showHandsList() {
             row = tbodyRef.insertRow();
             cell1 = row.insertCell();
             cell1.innerHTML +=
-              "<a href='javascript:showHandInfo(" +
+              "<a href='" +
+              replays[index] +
+              "' id='" +
               index +
-              ")' id='" +
-              index +
-              "'>" +
+              "' target='_blank'>" +
               line
                 .toString()
                 .replace("PokerStars Home Game Hand ", "")
@@ -221,7 +222,6 @@ function getReplays(filePath) {
     .then((response) => response.text())
     .then((data) => {
       // Do something with your data
-      var text = data;
-      console.log(text);
+      replays = data.split("\n");
     });
 }

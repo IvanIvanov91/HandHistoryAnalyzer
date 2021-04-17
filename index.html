@@ -7,17 +7,36 @@
   </head>
 
   <body>
-    <!-- <input type="file" name="inputfile" id="inputfile" />
-    <br /> -->
-    <ul>
-      <li>
-        <a href="javascript:readTextFile('txt/session1.txt')">Session 1</a>
-      </li>
-      <li>
-        <a href="javascript:readTextFile('txt/session2.txt')">Session 2</a>
-      </li>
-    </ul>
+    <div id="matchInfo">
+      <p>-- MATCH INFO --</p>
+      <p>Hands played: 525</p>
+      <p>Balance: s70n3fac3: +138.42</p>
+      <a href="https://www.cardschat.com/hand-converter.php" target="_blank">
+        <img
+          src="replayButton.png"
+          title="Poker hand replayer"
+          class="imgReplay"
+        />
+      </a>
+      <ul>
+        <li>
+          <p>
+            <a href="javascript:readTextFile('txt/session1.txt')">Session 1</a>
+            Result: FDIBA2009 +95.69
+          </p>
+        </li>
+        <li>
+          <p>
+            <a href="javascript:readTextFile('txt/session2.txt')">Session 2</a>
+            Result: s70n3fac3 +234.11
+          </p>
+        </li>
+      </ul>
+    </div>
+
     <div id="info" hidden>
+      <label>Number of hands:</label>
+      <div id="handNumber"></div>
       <input
         type="button"
         name="showHands"
@@ -26,22 +45,24 @@
         onclick="showHandsList()"
       />
 
-      <p>First session result: FDIBA2009 +95.69</p>
-      <p>Second session result: s70n3fac3 +234.11</p>
-      <label>Number of hands:</label>
-      <div id="handNumber"></div>
       <div id="sessionInfo" hidden>
-        <label>Total rake:</label>
+        <p>-- SESSION INFO --</p>
         <div id="totalRake"></div>
-        <label id="lblMyRake">My rake: </label>
-        <div id="myRake"></div>
-        <label id="lblOppRake">Opponent rake: </label>
-        <div id="opponentRake"></div>
+        <div id="firstPlayerRake"></div>
+        <div id="secondPlayerRake"></div>
       </div>
     </div>
 
-    <div id="handInfo"></div>
+    <textarea
+      id="handInfo"
+      rows="35"
+      cols="50"
+      class="topcorner"
+      disabled
+      hidden
+    ></textarea>
     <div id="handList"></div>
+
     <table id="resTable" hidden>
       <thead>
         <tr>

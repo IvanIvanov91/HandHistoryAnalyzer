@@ -1,8 +1,8 @@
 var hands = [],
   rake,
-  myRake,
-  opponentRake,
-  isMyRake = true,
+  firstPlayerRake,
+  secondPlayerRake,
+  isFirstPlayerRake = true,
   splitPot,
   table,
   row,
@@ -11,29 +11,11 @@ var hands = [],
   cell3,
   cell4,
   handsLoaded = false,
-  player,
-  opponent,
-  divider;
-
-// $(document).ready(function () {
-//   document.getElementById("inputfile").addEventListener("change", function () {
-//     var file = this.files[0];
-//     document.getElementById("info").removeAttribute("hidden");
-//     var reader = new FileReader();
-//     reader.onload = function (progressEvent) {
-//       // Replace end of hand symbols with new lines
-//       hands.splice(0, hands.length);
-//       $("#resTable tbody").empty();
-//       $("#sessionInfo").hide();
-//       handsLoaded = false;
-//       var text = this.result.replace(/(\r\n|\n|\r)/gm, "<br/>");
-
-//       countHands(text);
-//     };
-
-//     reader.readAsText(file);
-//   });
-// });
+  firstPlayer,
+  secondPlayer,
+  divider,
+  handsWonFirstPlayer,
+  handsWonSecondPlayer;
 
 //Number of hands played
 function countHands(text) {
@@ -41,22 +23,29 @@ function countHands(text) {
   $("#handNumber").text(hands.length - 1);
 }
 
+//Show list of all hands in the session
 function showHandsList() {
   $("#sessionInfo").show();
 
+  //Get players names for the rake info
   getPlayers(hands[0].toString().split("<br/>"));
-  var button = document.getElementById("showHands");
-  if (button.value == "Show hands list") {
+
+  var button = $("#showHands");
+  if (button.val() == "Show hands list") {
     if (!handsLoaded) {
       handsLoaded = true;
       rake = 0;
-      myRake = 0;
-      opponentRake = 0;
+      firstPlayerRake = 0;
+      secondPlayerRake = 0;
+      handsWonFirstPlayer = 0;
+      handsWonSecondPlayer = 0;
       table = document.getElementById("resTable");
 
       hands.forEach((hand, index) => {
         splitPot = true;
         var lines = hand.toString().split("<br/>");
+
+        //List all hands
         lines.forEach((line) => {
           if (line.toString().startsWith("PokerStars Home Game Hand #")) {
             if (line.toString().includes("Hold'em No Limit")) {
@@ -74,16 +63,29 @@ function showHandsList() {
               ")' id='" +
               index +
               "'>" +
-              line.toString().split("PokerStars Home Game Hand ")[1] +
+              line
+                .toString()
+                .replace("PokerStars Home Game Hand ", "")
+                .replace(" {Club #4781089}  ", "") +
               "</a><br/>";
-          } else if (line.toString().startsWith(player + " collected")) {
-            isMyRake = true;
+          }
+          //First player won the pot
+          else if (line.toString().startsWith(firstPlayer + " collected")) {
+            isFirstPlayerRake = true;
+            handsWonFirstPlayer += 1;
             splitPot = !splitPot;
-          } else if (line.toString().startsWith(opponent + " collected")) {
-            isMyRake = false;
+          }
+          //Second player won the pot
+          else if (line.toString().startsWith(secondPlayer + " collected")) {
+            isFirstPlayerRake = false;
+            handsWonSecondPlayer += 1;
             splitPot = !splitPot;
-          } else if (line.toString().includes("Rake ")) {
+          }
+          //Get rake
+          else if (line.toString().includes("Rake ")) {
             cell2 = row.insertCell();
+
+            //Get pot size
             var potSize =
               parseInt(line.split("Total pot ")[1].split(" | ")[0]) / divider;
             cell2.innerHTML = potSize;
@@ -91,41 +93,60 @@ function showHandsList() {
             var currentRake = parseInt(line.split("Rake ")[1]);
             rake += currentRake;
 
+            //Populate cell for who won the pot
             cell3 = row.insertCell();
             if (splitPot) {
               cell3.innerHTML = "Split pot";
-              myRake += currentRake / 2;
-              opponentRake += currentRake / 2;
-            } else if (isMyRake) {
-              myRake += currentRake;
-              cell3.innerHTML = player;
+              firstPlayerRake += currentRake / 2;
+              secondPlayerRake += currentRake / 2;
+            } else if (isFirstPlayerRake) {
+              firstPlayerRake += currentRake;
+              cell3.innerHTML = firstPlayer;
             } else {
-              opponentRake += currentRake;
-              cell3.innerHTML = opponent;
+              secondPlayerRake += currentRake;
+              cell3.innerHTML = secondPlayer;
             }
+
+            //Populate rake cell
             cell4 = row.insertCell();
             cell4.innerHTML = currentRake / divider;
           }
         });
       });
     }
-    button.value = "Hide hands list";
+    button.val("Hide hands list");
 
     $("#resTable").show();
   } else {
     $("#resTable").hide();
-    button.value = "Show hands list";
+    $("#handInfo").hide();
+    button.val("Show hands list");
   }
 
-  $("#totalRake").text(rake / divider);
-  $("#myRake").text(myRake / divider);
-  $("#opponentRake").text(opponentRake / divider);
+  $("#totalRake").text("Total rake: " + rake / divider);
+  $("#firstPlayerRake").text(
+    firstPlayer +
+      " rake: " +
+      firstPlayerRake / divider +
+      " | Hands won: " +
+      handsWonFirstPlayer
+  );
+  $("#secondPlayerRake").text(
+    secondPlayer +
+      " rake: " +
+      secondPlayerRake / divider +
+      " | Hands won: " +
+      handsWonSecondPlayer
+  );
 }
 
+//Show info for selected hand
 function showHandInfo(index) {
-  $("#handInfo").html(hands[index]);
+  $("#handInfo").show();
+  $("#handInfo").val(hands[index].replace(/<br\/>/gi, "\n"));
 }
 
+//Make table sortable
 $("th").click(function () {
   var table = $(this).parents("table").eq(0);
   var rows = table
@@ -140,6 +161,7 @@ $("th").click(function () {
     table.append(rows[i]);
   }
 });
+
 function comparer(index) {
   return function (a, b) {
     var valA = getCellValue(a, index),
@@ -149,39 +171,60 @@ function comparer(index) {
       : valA.toString().localeCompare(valB);
   };
 }
+
 function getCellValue(row, index) {
   return $(row).children("td").eq(index).text();
 }
 
+//Get players names
 function getPlayers(lines) {
   lines.forEach((line) => {
     if (line.toString().startsWith("Seat 1:")) {
-      player = line.toString().split("Seat 1: ")[1].split(" (")[0];
-      $("#lblMyRake").text(player + " rake:");
+      firstPlayer = line.toString().split("Seat 1: ")[1].split(" (")[0];
     } else if (line.toString().startsWith("Seat 2:")) {
-      opponent = line.toString().split("Seat 2: ")[1].split(" (")[0];
-      $("#lblOppRake").text(opponent + " rake:");
+      secondPlayer = line.toString().split("Seat 2: ")[1].split(" (")[0];
     }
   });
 }
 
+//Read text file from server
 function readTextFile(filePath) {
-  var txtFile = new XMLHttpRequest();
-  txtFile.open("GET", "txt/session1.txt", true);
-  txtFile.onreadystatechange = function () {
-    if (txtFile.readyState === 4) {
-      // Makes sure the document is ready to parse.
-      if (txtFile.status === 200) {
-        // Makes sure it's found the file.
-        var text = txtFile.responseText.replace(/(\r\n|\n|\r)/gm, "<br/>");
-        hands.splice(0, hands.length);
-        $("#resTable tbody").empty();
-        $("#sessionInfo").hide();
-        handsLoaded = false;
-        $("#info").show();
-        countHands(text);
-      }
-    }
-  };
-  txtFile.send(null);
+  const fileUrl =
+    "https://ivanivanov91.github.io/HandHistoryAnalyzer/" + filePath; // provide file location
+
+  fetch(fileUrl)
+    .then((response) => response.text())
+    .then((data) => {
+      // Do something with your data
+      var text = data.replace(/(\r\n|\n|\r)/gm, "<br/>");
+      hands.splice(0, hands.length);
+      $("#resTable tbody").empty();
+      $("#resTable").hide();
+
+      $("#showHands").val("Show hands list");
+      $("#sessionInfo").hide();
+      $("#handInfo").hide();
+      handsLoaded = false;
+      $("#info").show();
+      countHands(text);
+    });
+
+  // var txtFile = new XMLHttpRequest();
+  // txtFile.open("GET", "txt/session1.txt", true);
+  // txtFile.onreadystatechange = function () {
+  //   if (txtFile.readyState === 4) {
+  //     // Makes sure the document is ready to parse.
+  //     if (txtFile.status === 200) {
+  //       // Makes sure it's found the file.
+
+  //       hands.splice(0, hands.length);
+  //       $("#resTable tbody").empty();
+  //       $("#sessionInfo").hide();
+  //       handsLoaded = false;
+  //       $("#info").show();
+  //       countHands(text);
+  //     }
+  //   }
+  // };
+  // txtFile.send(null);
 }

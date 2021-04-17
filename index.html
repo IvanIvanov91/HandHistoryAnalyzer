@@ -9,14 +9,14 @@
   <body>
     <input type="file" name="inputfile" id="inputfile" />
     <br />
-    <input
-      type="button"
-      name="test"
-      id="test"
-      value="Test"
-      onclick="readTextFile()"
-    />
-
+    <ul>
+      <li>
+        <a href="javascript:readTextFile('txt/session1.txt')">Session 1</a>
+      </li>
+      <li>
+        <a href="javascript:readTextFile('txt/session2.txt')">Session 2</a>
+      </li>
+    </ul>
     <div id="info" hidden>
       <input
         type="button"

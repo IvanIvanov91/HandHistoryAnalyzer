@@ -165,7 +165,7 @@ function getPlayers(lines) {
   });
 }
 
-function readTextFile() {
+function readTextFile(filePath) {
   var txtFile = new XMLHttpRequest();
   txtFile.open("GET", "txt/session1.txt", true);
   txtFile.onreadystatechange = function () {
@@ -175,6 +175,7 @@ function readTextFile() {
         // Makes sure it's found the file.
         allText = txtFile.responseText;
         lines = txtFile.responseText.split("\n"); // Will separate each line into an array
+        console.log("File read");
       }
     }
   };

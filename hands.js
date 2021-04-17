@@ -4,7 +4,6 @@ var hands = [],
   secondPlayerRake,
   isFirstPlayerRake = true,
   splitPot,
-  table,
   row,
   cell1,
   cell2,
@@ -39,7 +38,6 @@ function showHandsList() {
       secondPlayerRake = 0;
       handsWonFirstPlayer = 0;
       handsWonSecondPlayer = 0;
-      table = document.getElementById("resTable");
 
       hands.forEach((hand, index) => {
         splitPot = true;
@@ -208,23 +206,4 @@ function readTextFile(filePath) {
       $("#info").show();
       countHands(text);
     });
-
-  // var txtFile = new XMLHttpRequest();
-  // txtFile.open("GET", "txt/session1.txt", true);
-  // txtFile.onreadystatechange = function () {
-  //   if (txtFile.readyState === 4) {
-  //     // Makes sure the document is ready to parse.
-  //     if (txtFile.status === 200) {
-  //       // Makes sure it's found the file.
-
-  //       hands.splice(0, hands.length);
-  //       $("#resTable tbody").empty();
-  //       $("#sessionInfo").hide();
-  //       handsLoaded = false;
-  //       $("#info").show();
-  //       countHands(text);
-  //     }
-  //   }
-  // };
-  // txtFile.send(null);
 }

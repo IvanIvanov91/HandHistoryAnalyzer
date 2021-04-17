@@ -135,6 +135,14 @@ td.text-right {
   width: 45%;
 }
 
+/* Make table scrollable */
+th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+/* Show iamge */
 .imgReplay {
   position: absolute;
   top: 0;

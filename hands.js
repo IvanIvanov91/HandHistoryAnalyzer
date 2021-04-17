@@ -15,25 +15,25 @@ var hands = [],
   opponent,
   divider;
 
-$(document).ready(function () {
-  document.getElementById("inputfile").addEventListener("change", function () {
-    var file = this.files[0];
-    document.getElementById("info").removeAttribute("hidden");
-    var reader = new FileReader();
-    reader.onload = function (progressEvent) {
-      // Replace end of hand symbols with new lines
-      hands.splice(0, hands.length);
-      $("#resTable tbody").empty();
-      $("#sessionInfo").hide();
-      handsLoaded = false;
-      var text = this.result.replace(/(\r\n|\n|\r)/gm, "<br/>");
+// $(document).ready(function () {
+//   document.getElementById("inputfile").addEventListener("change", function () {
+//     var file = this.files[0];
+//     document.getElementById("info").removeAttribute("hidden");
+//     var reader = new FileReader();
+//     reader.onload = function (progressEvent) {
+//       // Replace end of hand symbols with new lines
+//       hands.splice(0, hands.length);
+//       $("#resTable tbody").empty();
+//       $("#sessionInfo").hide();
+//       handsLoaded = false;
+//       var text = this.result.replace(/(\r\n|\n|\r)/gm, "<br/>");
 
-      countHands(text);
-    };
+//       countHands(text);
+//     };
 
-    reader.readAsText(file);
-  });
-});
+//     reader.readAsText(file);
+//   });
+// });
 
 //Number of hands played
 function countHands(text) {
@@ -173,9 +173,12 @@ function readTextFile(filePath) {
       // Makes sure the document is ready to parse.
       if (txtFile.status === 200) {
         // Makes sure it's found the file.
-        allText = txtFile.responseText;
-        lines = txtFile.responseText.split("\n"); // Will separate each line into an array
-        console.log("File read");
+        var text = txtFile.responseText.replace(/(\r\n|\n|\r)/gm, "<br/>");
+        hands.splice(0, hands.length);
+        $("#resTable tbody").empty();
+        $("#sessionInfo").hide();
+        handsLoaded = false;
+        countHands(text);
       }
     }
   };

@@ -3,7 +3,7 @@
   <head>
     <title>Read Text File</title>
     <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
   </head>
 
   <body>
@@ -11,31 +11,38 @@
     <br />
     <div id="info" hidden>
       <input
-      type="button"
-      name="showHands"
-      id="showHands"
-      value="Show hands list"
-      onclick="showHandsList()"
-      
-    />
-      <label>Number of hands:</label><div id="handNumber"></div>
-      <label>Total rake:</label><div id="totalRake"></div> 
-      <label>My rake: </label><div id="myRake"></div>
-      <lavbel>Opponent rake: </label><div id="opponentRake"></div>
+        type="button"
+        name="showHands"
+        id="showHands"
+        value="Show hands list"
+        onclick="showHandsList()"
+      />
+      <p>First session result: FDIBA2009 +95.69</p>
+      <p>Second session result: s70n3fac3 +234.11</p>
+      <label>Number of hands:</label>
+      <div id="handNumber"></div>
+      <div id="sessionInfo" hidden>
+        <label>Total rake:</label>
+        <div id="totalRake"></div>
+        <label id="lblMyRake">My rake: </label>
+        <div id="myRake"></div>
+        <label id="lblOppRake">Opponent rake: </label>
+        <div id="opponentRake"></div>
+      </div>
     </div>
-    
+
     <div id="handInfo"></div>
     <div id="handList"></div>
     <table id="resTable" hidden>
       <thead>
         <tr>
-        <th>Hand</th>
-        <th>Pot Size</th>
-        <th>Won</th>
-        <th>Rake</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
+          <th>Hand</th>
+          <th>Pot Size</th>
+          <th>Won</th>
+          <th>Rake</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
     </table>
     <script type="text/javascript" src="hands.js"></script>
   </body>

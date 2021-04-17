@@ -165,13 +165,9 @@ function getPlayers(lines) {
   });
 }
 
-function readTextFile() {
+function readTextFile(filePath) {
   var txtFile = new XMLHttpRequest();
-  txtFile.open(
-    "GET",
-    "https://github.com/IvanIvanov91/HandHistoryAnalyzer/blob/7b56d97664449da85275a99de659802493c82dd9/txt/HH20210415%20VTPP%20NLHE%20-%2050-100%20-%20Play%20Money%20No%20Limit%20Hold'em%20-%201%20on%201.txt",
-    true
-  );
+  txtFile.open("GET", filePath, true);
   txtFile.onreadystatechange = function () {
     if (txtFile.readyState === 4) {
       // Makes sure the document is ready to parse.
@@ -179,6 +175,7 @@ function readTextFile() {
         // Makes sure it's found the file.
         allText = txtFile.responseText;
         lines = txtFile.responseText.split("\n"); // Will separate each line into an array
+        console.log("File read");
       }
     }
   };

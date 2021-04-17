@@ -178,6 +178,7 @@ function readTextFile(filePath) {
         $("#resTable tbody").empty();
         $("#sessionInfo").hide();
         handsLoaded = false;
+        $("#info").show();
         countHands(text);
       }
     }

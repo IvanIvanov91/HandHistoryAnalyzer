@@ -169,7 +169,7 @@ function readTextFile() {
   var txtFile = new XMLHttpRequest();
   txtFile.open(
     "GET",
-    "https://github.com/IvanIvanov91/HandHistoryAnalyzer/blob/c16e321b5bf9fc26fd60500e5d764f7f67912c4b/txt/session2.txt",
+    "https://github.com/IvanIvanov91/HandHistoryAnalyzer/blob/7b56d97664449da85275a99de659802493c82dd9/txt/session2.txt",
     true
   );
   txtFile.onreadystatechange = function () {

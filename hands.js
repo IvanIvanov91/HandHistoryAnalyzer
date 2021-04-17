@@ -169,7 +169,7 @@ function readTextFile() {
   var txtFile = new XMLHttpRequest();
   txtFile.open(
     "GET",
-    "txt/HH20210415 VTPP NLHE - 50-100 - Play Money No Limit Hold'em - 1 on 1.txt",
+    "https://github.com/IvanIvanov91/HandHistoryAnalyzer/blob/7b56d97664449da85275a99de659802493c82dd9/txt/HH20210415%20VTPP%20NLHE%20-%2050-100%20-%20Play%20Money%20No%20Limit%20Hold'em%20-%201%20on%201.txt",
     true
   );
   txtFile.onreadystatechange = function () {

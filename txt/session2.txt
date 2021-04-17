@@ -5,7 +5,6 @@ Seat 2: s70n3fac3 (10000 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9c 4d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -24,7 +23,6 @@ Seat 2: s70n3fac3 (9900 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4h Ts]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -42,7 +40,6 @@ Seat 2: s70n3fac3 (9850 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h 6c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [4c Tc 8c]
@@ -78,7 +75,6 @@ Seat 2: s70n3fac3 (9650 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ac Jc]
 FDIBA2009 said, "ok"
 s70n3fac3: raises 220 to 320
 FDIBA2009: calls 220
@@ -111,7 +107,6 @@ Seat 2: s70n3fac3 (10242 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8h 3d]
 FDIBA2009: folds 
 Uncalled bet (50) returned to s70n3fac3
 s70n3fac3 collected 100 from pot
@@ -130,7 +125,6 @@ Seat 2: s70n3fac3 (10292 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8c Qs]
 s70n3fac3: calls 50
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
@@ -150,7 +144,6 @@ Seat 2: s70n3fac3 (10192 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [As Js]
 FDIBA2009: raises 200 to 300
 s70n3fac3: raises 400 to 700
 FDIBA2009: calls 400
@@ -175,7 +168,6 @@ Seat 2: s70n3fac3 (10815 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4h 5c]
 s70n3fac3: calls 50
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
@@ -195,7 +187,6 @@ Seat 2: s70n3fac3 (10715 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7d 6d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [4h 8s Kc]
@@ -219,7 +210,6 @@ Seat 2: s70n3fac3 (10515 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8h 7c]
 s70n3fac3: raises 160 to 260
 FDIBA2009: folds 
 Uncalled bet (160) returned to s70n3fac3
@@ -239,7 +229,6 @@ Seat 2: s70n3fac3 (10615 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Js 4d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -258,7 +247,6 @@ Seat 2: s70n3fac3 (10515 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3s 4h]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -276,7 +264,6 @@ Seat 2: s70n3fac3 (10465 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd Td]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 200 to 400
 FDIBA2009: calls 200
@@ -301,7 +288,6 @@ Seat 2: s70n3fac3 (10821 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8s 8c]
 s70n3fac3: raises 130 to 230
 FDIBA2009: folds 
 Uncalled bet (130) returned to s70n3fac3
@@ -321,7 +307,6 @@ Seat 2: s70n3fac3 (10921 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4s Kh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -340,7 +325,6 @@ Seat 2: s70n3fac3 (10821 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6s Td]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -358,7 +342,6 @@ Seat 2: s70n3fac3 (10771 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3d 3s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [6c 9h 2d]
@@ -388,7 +371,6 @@ Seat 2: s70n3fac3 (11392 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5s 3c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -406,7 +388,6 @@ Seat 2: s70n3fac3 (11342 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d 8c]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -425,7 +406,6 @@ Seat 2: s70n3fac3 (11242 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5h 6s]
 s70n3fac3: raises 100 to 200
 FDIBA2009: folds 
 Uncalled bet (100) returned to s70n3fac3
@@ -445,7 +425,6 @@ Seat 2: s70n3fac3 (11342 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qc Qh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 285 to 485
 FDIBA2009: raises 970 to 1455
@@ -472,7 +451,6 @@ Seat 2: s70n3fac3 (13945 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ah 4d]
 s70n3fac3: raises 120 to 220
 FDIBA2009: raises 5198 to 5418 and is all-in
 s70n3fac3: folds 
@@ -492,7 +470,6 @@ Seat 2: s70n3fac3 (13725 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ts 9h]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -511,7 +488,6 @@ Seat 2: s70n3fac3 (13625 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ts Ah]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -531,7 +507,6 @@ Seat 2: s70n3fac3 (13725 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9d Ah]
 FDIBA2009: raises 200 to 300
 s70n3fac3: calls 200
 *** FLOP *** [7s 9c Ts]
@@ -559,7 +534,6 @@ Seat 2: s70n3fac3 (12858 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd 6s]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -579,7 +553,6 @@ Seat 2: s70n3fac3 (12958 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2h 6d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -598,7 +571,6 @@ Seat 2: s70n3fac3 (12858 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3h 2h]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 500 to 750
 s70n3fac3: folds 
@@ -618,7 +590,6 @@ Seat 2: s70n3fac3 (12608 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9c 9s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 400 to 600
 FDIBA2009: calls 400
@@ -643,7 +614,6 @@ Seat 2: s70n3fac3 (13142 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h Ks]
 s70n3fac3: raises 130 to 230
 FDIBA2009: raises 460 to 690
 s70n3fac3: folds 
@@ -663,7 +633,6 @@ Seat 2: s70n3fac3 (12912 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [As 5s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: calls 300
@@ -694,7 +663,6 @@ Seat 2: s70n3fac3 (18510 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5c Kh]
 s70n3fac3: raises 120 to 220
 FDIBA2009: folds 
 Uncalled bet (120) returned to s70n3fac3
@@ -714,7 +682,6 @@ Seat 2: s70n3fac3 (18610 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ac Kh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 375 to 575
 FDIBA2009: calls 375
@@ -739,7 +706,6 @@ Seat 2: s70n3fac3 (19122 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7h Jd]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -757,7 +723,6 @@ Seat 2: s70n3fac3 (19072 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qc 9c]
 FDIBA2009: raises 200 to 300
 s70n3fac3: calls 200
 *** FLOP *** [7d Js 5h]
@@ -781,7 +746,6 @@ Seat 2: s70n3fac3 (18772 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qs 5d]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -799,7 +763,6 @@ Seat 2: s70n3fac3 (18722 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6c Qs]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -818,7 +781,6 @@ Seat 2: s70n3fac3 (18622 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3c Qd]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [5h Kc Qh]
@@ -843,7 +805,6 @@ Seat 2: s70n3fac3 (18800 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kh 3s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [8h Ac 7c]
@@ -867,7 +828,6 @@ Seat 2: s70n3fac3 (18600 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8s Td]
 s70n3fac3: raises 120 to 220
 FDIBA2009: folds 
 Uncalled bet (120) returned to s70n3fac3
@@ -887,7 +847,6 @@ Seat 2: s70n3fac3 (18700 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3s Kh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -906,7 +865,6 @@ Seat 2: s70n3fac3 (18600 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Tc Ks]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -926,7 +884,6 @@ Seat 2: s70n3fac3 (18700 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2h Qc]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -945,7 +902,6 @@ Seat 2: s70n3fac3 (18600 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8s 5s]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -965,7 +921,6 @@ Seat 2: s70n3fac3 (18700 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3d 2d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [3c 5d 4c]
@@ -998,7 +953,6 @@ Seat 2: s70n3fac3 (17044 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8d Ac]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 150 to 400
 s70n3fac3: calls 150
@@ -1022,7 +976,6 @@ Seat 2: s70n3fac3 (16644 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5s 7c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Qc 7s Ah]
@@ -1053,7 +1006,6 @@ Seat 2: s70n3fac3 (16244 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5d 4d]
 s70n3fac3: raises 130 to 230
 FDIBA2009: folds 
 Uncalled bet (130) returned to s70n3fac3
@@ -1073,7 +1025,6 @@ Seat 2: s70n3fac3 (16344 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Js 7c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Ah Ks 6c]
@@ -1103,7 +1054,6 @@ Seat 2: s70n3fac3 (16522 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7s 3s]
 s70n3fac3: raises 100 to 200
 FDIBA2009: folds 
 Uncalled bet (100) returned to s70n3fac3
@@ -1123,7 +1073,6 @@ Seat 2: s70n3fac3 (16622 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jd 6c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -1142,7 +1091,6 @@ Seat 2: s70n3fac3 (16522 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2h 9c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -1160,7 +1108,6 @@ Seat 2: s70n3fac3 (16472 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [As Ah]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 350 to 550
 FDIBA2009: folds 
@@ -1181,7 +1128,6 @@ Seat 2: s70n3fac3 (16672 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qd Jh]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -1201,7 +1147,6 @@ Seat 2: s70n3fac3 (16772 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qs 7h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [9c Td 5c]
@@ -1231,7 +1176,6 @@ Seat 2: s70n3fac3 (16372 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h 8h]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [4s 2d 4c]
@@ -1257,7 +1201,6 @@ Seat 2: s70n3fac3 (16122 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9c Qd]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Jh 3d 2c]
@@ -1281,7 +1224,6 @@ Seat 2: s70n3fac3 (15922 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qd 4h]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -1299,7 +1241,6 @@ Seat 2: s70n3fac3 (15872 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd 2d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [6c 7s 4s]
@@ -1323,7 +1264,6 @@ Seat 2: s70n3fac3 (15672 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7c 7h]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [6d 3s Td]
@@ -1356,7 +1296,6 @@ Seat 2: s70n3fac3 (16513 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qh Jh]
 FDIBA2009: raises 200 to 300
 s70n3fac3: calls 200
 *** FLOP *** [Qs Ac Th]
@@ -1389,7 +1328,6 @@ Seat 2: s70n3fac3 (18887 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Td 9c]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -1409,7 +1347,6 @@ Seat 2: s70n3fac3 (18987 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jd 5h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -1428,7 +1365,6 @@ Seat 2: s70n3fac3 (18887 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7s 4d]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -1446,7 +1382,6 @@ Seat 2: s70n3fac3 (18837 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd Th]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [4d 4c Js]
@@ -1470,7 +1405,6 @@ Seat 2: s70n3fac3 (18637 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2h 2c]
 s70n3fac3: calls 50
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
@@ -1502,7 +1436,6 @@ Seat 2: s70n3fac3 (18815 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d 2s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Kd 4d 8s]
@@ -1529,7 +1462,6 @@ Seat 2: s70n3fac3 (18993 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7c 8h]
 s70n3fac3: raises 130 to 230
 FDIBA2009: raises 460 to 690
 s70n3fac3: folds 
@@ -1549,7 +1481,6 @@ Seat 2: s70n3fac3 (18763 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5d Ks]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [6d Js 6h]
@@ -1576,7 +1507,6 @@ Seat 2: s70n3fac3 (18563 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7h 9d]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [2c Jh 7c]
@@ -1609,7 +1539,6 @@ Seat 2: s70n3fac3 (17618 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4s 9d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -1628,7 +1557,6 @@ Seat 2: s70n3fac3 (17518 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h Qd]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -1646,7 +1574,6 @@ Seat 2: s70n3fac3 (17468 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Js 7d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [7h Ah 2d]
@@ -1674,7 +1601,6 @@ Seat 2: s70n3fac3 (16890 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3c Ah]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -1694,7 +1620,6 @@ Seat 2: s70n3fac3 (16990 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ks Kh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 325 to 525
 FDIBA2009: raises 375 to 900
@@ -1727,7 +1652,6 @@ Seat 2: s70n3fac3 (18574 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ks 3s]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -1747,7 +1671,6 @@ Seat 2: s70n3fac3 (18674 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3c 6s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -1766,7 +1689,6 @@ Seat 2: s70n3fac3 (18574 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2s 3s]
 s70n3fac3: raises 100 to 200
 FDIBA2009: raises 400 to 600
 s70n3fac3: calls 400
@@ -1790,7 +1712,6 @@ Seat 2: s70n3fac3 (17974 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3s Kh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [6d 4h 8h]
@@ -1814,7 +1735,6 @@ Seat 2: s70n3fac3 (17774 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3s Kd]
 s70n3fac3: raises 100 to 200
 FDIBA2009: raises 400 to 600
 s70n3fac3: folds 
@@ -1834,7 +1754,6 @@ Seat 2: s70n3fac3 (17574 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qd 9c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [3c 4d Jc]
@@ -1866,7 +1785,6 @@ Seat 2: s70n3fac3 (17185 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6d Jd]
 s70n3fac3: raises 100 to 200
 FDIBA2009: raises 400 to 600
 s70n3fac3: folds 
@@ -1886,7 +1804,6 @@ Seat 2: s70n3fac3 (16985 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8c 6h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Td 9d Ad]
@@ -1913,7 +1830,6 @@ Seat 2: s70n3fac3 (16785 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5d Jh]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -1931,7 +1847,6 @@ Seat 2: s70n3fac3 (16735 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [As Js]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: folds 
@@ -1951,7 +1866,6 @@ Seat 2: s70n3fac3 (16935 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3s 7h]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -1969,7 +1883,6 @@ Seat 2: s70n3fac3 (16885 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kh As]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: folds 
@@ -1990,7 +1903,6 @@ Seat 2: s70n3fac3 (17085 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2s Ac]
 s70n3fac3: raises 100 to 200
 FDIBA2009: folds 
 Uncalled bet (100) returned to s70n3fac3
@@ -2010,7 +1922,6 @@ Seat 2: s70n3fac3 (17185 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jd 9d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Jc As 4c]
@@ -2038,7 +1949,6 @@ Seat 2: s70n3fac3 (16607 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9c Tc]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [3s Ad Kc]
@@ -2063,7 +1973,6 @@ Seat 2: s70n3fac3 (16829 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jc Kc]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: calls 300
@@ -2096,7 +2005,6 @@ Seat 2: s70n3fac3 (18421 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5d 5c]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -2116,7 +2024,6 @@ Seat 2: s70n3fac3 (18521 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Td 6h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -2135,7 +2042,6 @@ Seat 2: s70n3fac3 (18421 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8d Ts]
 s70n3fac3: raises 130 to 230
 FDIBA2009: folds 
 Uncalled bet (130) returned to s70n3fac3
@@ -2155,7 +2061,6 @@ Seat 2: s70n3fac3 (18521 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ks 5c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [8h 6h 2c]
@@ -2179,7 +2084,6 @@ Seat 2: s70n3fac3 (18321 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2c 8d]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -2197,7 +2101,6 @@ Seat 2: s70n3fac3 (18271 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2s 3c]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -2216,7 +2119,6 @@ Seat 2: s70n3fac3 (18171 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7h 7c]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [6s Ad Ks]
@@ -2241,7 +2143,6 @@ Seat 2: s70n3fac3 (18393 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5d Ad]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: calls 300
@@ -2266,7 +2167,6 @@ Seat 2: s70n3fac3 (18838 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2h 2s]
 s70n3fac3: raises 100 to 200
 FDIBA2009: raises 400 to 600
 s70n3fac3: calls 400
@@ -2293,7 +2193,6 @@ Seat 2: s70n3fac3 (18238 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kc Ad]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: calls 300
@@ -2322,7 +2221,6 @@ Seat 2: s70n3fac3 (17038 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8s Ac]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -2342,7 +2240,6 @@ Seat 2: s70n3fac3 (17138 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jh 8d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [7d 3d 3s]
@@ -2366,7 +2263,6 @@ Seat 2: s70n3fac3 (16938 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Th 3s]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -2384,7 +2280,6 @@ Seat 2: s70n3fac3 (16888 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3h 7h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Ac Jd 8c]
@@ -2408,7 +2303,6 @@ Seat 2: s70n3fac3 (16688 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5s 8h]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [Ad 5h 9c]
@@ -2438,7 +2332,6 @@ Seat 2: s70n3fac3 (16268 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8h 7s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Ad Kd 6c]
@@ -2462,7 +2355,6 @@ Seat 2: s70n3fac3 (16068 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5h Ac]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [4d 7d Kc]
@@ -2491,7 +2383,6 @@ Seat 2: s70n3fac3 (16513 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3d 2c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -2510,7 +2401,6 @@ Seat 2: s70n3fac3 (16413 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3d 9c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -2528,7 +2418,6 @@ Seat 2: s70n3fac3 (16363 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ac 7h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Kd 8c 9d]
@@ -2560,7 +2449,6 @@ Seat 2: s70n3fac3 (15474 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2c Ac]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [Tc Ks 5d]
@@ -2592,7 +2480,6 @@ Seat 2: s70n3fac3 (15915 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jh Kd]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: raises 1000 to 1500
@@ -2613,7 +2500,6 @@ Seat 2: s70n3fac3 (15415 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8h 6c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [Ad Ah Qh]
@@ -2647,7 +2533,6 @@ Seat 2: s70n3fac3 (13148 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8h Jh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Qd Js Th]
@@ -2679,7 +2564,6 @@ Seat 2: s70n3fac3 (13939 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9s 6h]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -2697,7 +2581,6 @@ Seat 2: s70n3fac3 (13889 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h 3h]
 FDIBA2009: folds 
 Uncalled bet (50) returned to s70n3fac3
 s70n3fac3 collected 100 from pot
@@ -2716,7 +2599,6 @@ Seat 2: s70n3fac3 (13939 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd 6s]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [9h 3s Qh]
@@ -2742,7 +2624,6 @@ Seat 2: s70n3fac3 (13689 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4h 8d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -2761,7 +2642,6 @@ Seat 2: s70n3fac3 (13589 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qh 5d]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -2779,7 +2659,6 @@ Seat 2: s70n3fac3 (13539 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qd 2d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Ts 4s 5s]
@@ -2806,7 +2685,6 @@ Seat 2: s70n3fac3 (13339 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd Qc]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [Jh 4h Js]
@@ -2831,7 +2709,6 @@ Seat 2: s70n3fac3 (13561 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6c 6s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 350 to 550
 FDIBA2009: folds 
@@ -2852,7 +2729,6 @@ Seat 2: s70n3fac3 (13761 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ks 8s]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 500 to 750
 s70n3fac3: calls 500
@@ -2878,7 +2754,6 @@ Seat 2: s70n3fac3 (14428 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3h 2c]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -2897,7 +2772,6 @@ Seat 2: s70n3fac3 (14328 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9c Ac]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 500 to 750
 s70n3fac3: calls 500
@@ -2930,7 +2804,6 @@ Seat 2: s70n3fac3 (16495 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qd 8h]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -2949,7 +2822,6 @@ Seat 2: s70n3fac3 (16395 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h 2c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -2967,7 +2839,6 @@ Seat 2: s70n3fac3 (16345 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ts 4s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Jd Ah 6d]
@@ -2997,7 +2868,6 @@ Seat 2: s70n3fac3 (16523 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ah Kd]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 650 to 900
 s70n3fac3: raises 5350 to 6250
@@ -3025,7 +2895,6 @@ Seat 2: s70n3fac3 (24291 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Js 4h]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -3044,7 +2913,6 @@ Seat 2: s70n3fac3 (24191 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qc 7s]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 500 to 750
 s70n3fac3: folds 
@@ -3064,7 +2932,6 @@ Seat 2: s70n3fac3 (23941 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8h 9c]
 FDIBA2009: raises 200 to 300
 s70n3fac3: calls 200
 *** FLOP *** [Ts Td 5h]
@@ -3088,7 +2955,6 @@ Seat 2: s70n3fac3 (23641 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3d As]
 s70n3fac3: raises 130 to 230
 FDIBA2009: calls 130
 *** FLOP *** [8s Tc Qc]
@@ -3113,7 +2979,6 @@ Seat 2: s70n3fac3 (23846 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4h 9s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -3132,7 +2997,6 @@ Seat 2: s70n3fac3 (23746 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5s 2h]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -3150,7 +3014,6 @@ Seat 2: s70n3fac3 (23696 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2h Th]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Qs 5s 4d]
@@ -3174,7 +3037,6 @@ Seat 2: s70n3fac3 (23496 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4d 4c]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [8s Td 2d]
@@ -3205,7 +3067,6 @@ Seat 2: s70n3fac3 (22746 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd Ad]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 400 to 600
 FDIBA2009: calls 400
@@ -3234,7 +3095,6 @@ Seat 2: s70n3fac3 (21246 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qc 2c]
 s70n3fac3: raises 200 to 300
 FDIBA2009: raises 700 to 1000
 s70n3fac3: folds 
@@ -3254,7 +3114,6 @@ Seat 2: s70n3fac3 (20946 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3s Qd]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -3273,7 +3132,6 @@ Seat 2: s70n3fac3 (20846 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9d As]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -3293,7 +3151,6 @@ Seat 2: s70n3fac3 (20946 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Tc Qh]
 FDIBA2009: raises 200 to 300
 s70n3fac3: calls 200
 *** FLOP *** [4h Jd 8d]
@@ -3327,7 +3184,6 @@ Seat 2: s70n3fac3 (17246 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7c 3c]
 s70n3fac3: calls 50
 FDIBA2009: checks 
 *** FLOP *** [Qd 4c 5d]
@@ -3359,7 +3215,6 @@ Seat 2: s70n3fac3 (17513 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ts Ac]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: folds 
@@ -3380,7 +3235,6 @@ Seat 2: s70n3fac3 (17713 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2h 2d]
 s70n3fac3: calls 50
 FDIBA2009: checks 
 *** FLOP *** [Ad 5d Td]
@@ -3405,7 +3259,6 @@ Seat 2: s70n3fac3 (17802 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ks 6d]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -3424,7 +3277,6 @@ Seat 2: s70n3fac3 (17702 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2s 3c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -3442,7 +3294,6 @@ Seat 2: s70n3fac3 (17652 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd 7h]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -3461,7 +3312,6 @@ Seat 2: s70n3fac3 (17552 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ts 5h]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -3479,7 +3329,6 @@ Seat 2: s70n3fac3 (17502 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9c 3c]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -3498,7 +3347,6 @@ Seat 2: s70n3fac3 (17402 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5c Qs]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -3516,7 +3364,6 @@ Seat 2: s70n3fac3 (17352 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2c 9s]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -3535,7 +3382,6 @@ Seat 2: s70n3fac3 (17252 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8s Ad]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [3h Th Ks]
@@ -3567,7 +3413,6 @@ Seat 2: s70n3fac3 (18138 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kh Qc]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 200 to 400
 FDIBA2009: calls 200
@@ -3592,7 +3437,6 @@ Seat 2: s70n3fac3 (17438 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5h 7c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [5c Jh 7h]
@@ -3617,7 +3461,6 @@ Seat 2: s70n3fac3 (17616 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6c 6h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Jd 7c Jc]
@@ -3641,7 +3484,6 @@ Seat 2: s70n3fac3 (17794 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4c Js]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -3659,7 +3501,6 @@ Seat 2: s70n3fac3 (17744 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [As 2h]
 FDIBA2009: raises 200 to 300
 s70n3fac3: calls 200
 *** FLOP *** [Kd 5d 9h]
@@ -3683,7 +3524,6 @@ Seat 2: s70n3fac3 (17444 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4c 9d]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -3701,7 +3541,6 @@ Seat 2: s70n3fac3 (17394 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Tc Jd]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Ac 7h 6c]
@@ -3725,7 +3564,6 @@ Seat 2: s70n3fac3 (17194 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4s Kd]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [2h 2s 4d]
@@ -3750,7 +3588,6 @@ Seat 2: s70n3fac3 (17372 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7h Ks]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [5c 7d 4c]
@@ -3774,7 +3611,6 @@ Seat 2: s70n3fac3 (17550 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h Ts]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [4s 4d As]
@@ -3799,7 +3635,6 @@ Seat 2: s70n3fac3 (17772 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7d Qh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [5s Jh Ac]
@@ -3826,7 +3661,6 @@ Seat 2: s70n3fac3 (17372 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8s 8h]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -3846,7 +3680,6 @@ Seat 2: s70n3fac3 (17472 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5s 6d]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -3865,7 +3698,6 @@ Seat 2: s70n3fac3 (17372 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h 5h]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 550 to 800
 s70n3fac3: calls 550
@@ -3891,7 +3723,6 @@ Seat 2: s70n3fac3 (14622 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ah 4d]
 FDIBA2009: calls 50
 s70n3fac3: checks 
 *** FLOP *** [2h Kd 7h]
@@ -3922,7 +3753,6 @@ Seat 2: s70n3fac3 (15178 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d 4d]
 s70n3fac3: raises 100 to 200
 FDIBA2009: folds 
 Uncalled bet (100) returned to s70n3fac3
@@ -3942,7 +3772,6 @@ Seat 2: s70n3fac3 (15278 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5h 8d]
 FDIBA2009: folds 
 Uncalled bet (50) returned to s70n3fac3
 s70n3fac3 collected 100 from pot
@@ -3961,7 +3790,6 @@ Seat 2: s70n3fac3 (15328 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d 7d]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -3979,7 +3807,6 @@ Seat 2: s70n3fac3 (15278 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Td 2h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -3998,7 +3825,6 @@ Seat 2: s70n3fac3 (15178 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9s Js]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -4018,7 +3844,6 @@ Seat 2: s70n3fac3 (15278 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6d Th]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -4037,7 +3862,6 @@ Seat 2: s70n3fac3 (15178 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h 6s]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -4055,7 +3879,6 @@ Seat 2: s70n3fac3 (15128 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qh Jd]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [9c Kd Td]
@@ -4088,7 +3911,6 @@ Seat 2: s70n3fac3 (15929 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ac 9c]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [Td 3c 7h]
@@ -4113,7 +3935,6 @@ Seat 2: s70n3fac3 (16151 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qh 9d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [9h 4c 4s]
@@ -4137,7 +3958,6 @@ Seat 2: s70n3fac3 (16329 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8d Ad]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 500 to 750
 s70n3fac3: calls 500
@@ -4172,7 +3992,6 @@ Seat 2: s70n3fac3 (9068 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9c Ac]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [2d Jd 3h]
@@ -4200,7 +4019,6 @@ s70n3fac3: posts small blind 50
 s70n3fac3 said, "dobavih 10"
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5c Kh]
 s70n3fac3: calls 50
 FDIBA2009 said, "Ok"
 FDIBA2009: checks 
@@ -4230,7 +4048,6 @@ Seat 2: s70n3fac3 (9768 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qh 9c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [3h Ah 6s]
@@ -4254,7 +4071,6 @@ Seat 2: s70n3fac3 (9568 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d 5h]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -4272,7 +4088,6 @@ Seat 2: s70n3fac3 (9518 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5s 8s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [4d 2s 3h]
@@ -4303,7 +4118,6 @@ Seat 2: s70n3fac3 (8940 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4s Kh]
 s70n3fac3: calls 50
 FDIBA2009: checks 
 *** FLOP *** [4d 5c 7c]
@@ -4329,7 +4143,6 @@ Seat 2: s70n3fac3 (8651 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3h 5d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -4348,7 +4161,6 @@ Seat 2: s70n3fac3 (8551 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jh 9d]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [Jd 5c 5d]
@@ -4373,7 +4185,6 @@ Seat 2: s70n3fac3 (8773 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kc 6s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Jh 8d 5h]
@@ -4397,7 +4208,6 @@ Seat 2: s70n3fac3 (8573 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9d Td]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 500 to 750
 s70n3fac3: calls 500
@@ -4423,7 +4233,6 @@ Seat 2: s70n3fac3 (10041 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kd Ac]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 400 to 600
 FDIBA2009: folds 
@@ -4444,7 +4253,6 @@ Seat 2: s70n3fac3 (10241 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jc 3c]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [Tc 9s 5s]
@@ -4469,7 +4277,6 @@ Seat 2: s70n3fac3 (10463 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8c Ah]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Tc Ts 3d]
@@ -4500,7 +4307,6 @@ Seat 2: s70n3fac3 (9885 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9s 8h]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -4520,7 +4326,6 @@ Seat 2: s70n3fac3 (9985 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3s 8s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -4539,7 +4344,6 @@ Seat 2: s70n3fac3 (9885 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h 7c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: raises 400 to 600
 s70n3fac3: calls 400
@@ -4571,7 +4375,6 @@ Seat 2: s70n3fac3 (11131 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6s 3h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -4590,7 +4393,6 @@ Seat 2: s70n3fac3 (11031 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8s 6c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [Kc 6h Kh]
@@ -4619,7 +4421,6 @@ Seat 2: s70n3fac3 (11387 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7s Kc]
 FDIBA2009: raises 200 to 300
 s70n3fac3: calls 200
 *** FLOP *** [6d 7d 4h]
@@ -4650,7 +4451,6 @@ Seat 2: s70n3fac3 (15186 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2h Th]
 s70n3fac3: calls 50
 FDIBA2009: checks 
 *** FLOP *** [Qs Td 6h]
@@ -4683,7 +4483,6 @@ Seat 2: s70n3fac3 (15720 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9s 6c]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -4702,7 +4501,6 @@ Seat 2: s70n3fac3 (15620 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3c 5s]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -4720,7 +4518,6 @@ Seat 2: s70n3fac3 (15570 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3d 7h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -4739,7 +4536,6 @@ Seat 2: s70n3fac3 (15470 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d Jc]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -4757,7 +4553,6 @@ Seat 2: s70n3fac3 (15420 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5d 4s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Ad 8s Qs]
@@ -4787,7 +4582,6 @@ Seat 2: s70n3fac3 (15220 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6s Th]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -4805,7 +4599,6 @@ Seat 2: s70n3fac3 (15170 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5d 2h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -4824,7 +4617,6 @@ Seat 2: s70n3fac3 (15070 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7h 6c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [5s 7s 4c]
@@ -4857,7 +4649,6 @@ Seat 2: s70n3fac3 (14270 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Js 6d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -4876,7 +4667,6 @@ Seat 2: s70n3fac3 (14170 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7h 7d]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [Td 6c 3d]
@@ -4901,7 +4691,6 @@ Seat 2: s70n3fac3 (14392 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Th 6c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [5h Qd 3d]
@@ -4925,7 +4714,6 @@ Seat 2: s70n3fac3 (14192 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Js 8c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [3s Ts 5c]
@@ -4954,7 +4742,6 @@ Seat 2: s70n3fac3 (13992 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h Tc]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Ac 2c 4h]
@@ -4978,7 +4765,6 @@ Seat 2: s70n3fac3 (13792 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8h 9c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: raises 400 to 600
 s70n3fac3: calls 400
@@ -5005,7 +4791,6 @@ Seat 2: s70n3fac3 (12625 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5c 9s]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -5024,7 +4809,6 @@ Seat 2: s70n3fac3 (12525 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ks 9s]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -5044,7 +4828,6 @@ Seat 2: s70n3fac3 (12625 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qh 4h]
 FDIBA2009: raises 200 to 300
 s70n3fac3: calls 200
 *** FLOP *** [4d 4s 2s]
@@ -5074,7 +4857,6 @@ Seat 2: s70n3fac3 (13159 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d 3s]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5092,7 +4874,6 @@ Seat 2: s70n3fac3 (13109 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2s Td]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -5111,7 +4892,6 @@ Seat 2: s70n3fac3 (13009 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Tc Ad]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -5131,7 +4911,6 @@ Seat 2: s70n3fac3 (13109 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kc Kh]
 FDIBA2009: raises 200 to 300
 s70n3fac3: raises 400 to 700
 FDIBA2009: calls 400
@@ -5163,7 +4942,6 @@ Seat 2: s70n3fac3 (21252 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4s 3c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5181,7 +4959,6 @@ Seat 2: s70n3fac3 (21202 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5d 7d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [7c Qd 6s]
@@ -5209,7 +4986,6 @@ Seat 2: s70n3fac3 (20024 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qc 5s]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5227,7 +5003,6 @@ Seat 2: s70n3fac3 (19974 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7d 6h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [9c Qh 4h]
@@ -5257,7 +5032,6 @@ Seat 2: s70n3fac3 (20330 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qc 5c]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -5277,7 +5051,6 @@ Seat 2: s70n3fac3 (20430 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d Qd]
 FDIBA2009: folds 
 Uncalled bet (50) returned to s70n3fac3
 s70n3fac3 collected 100 from pot
@@ -5296,7 +5069,6 @@ Seat 2: s70n3fac3 (20480 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5h Ah]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -5316,7 +5088,6 @@ Seat 2: s70n3fac3 (20580 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h Qs]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [3h Qh Qd]
@@ -5348,7 +5119,6 @@ Seat 2: s70n3fac3 (21737 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jc 2d]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5366,7 +5136,6 @@ Seat 2: s70n3fac3 (21687 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h Jd]
 FDIBA2009: raises 200 to 300
 s70n3fac3: folds 
 Uncalled bet (200) returned to FDIBA2009
@@ -5385,7 +5154,6 @@ Seat 2: s70n3fac3 (21587 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7h As]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [6h Ad 3c]
@@ -5419,7 +5187,6 @@ Seat 2: s70n3fac3 (23278 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8d 9c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Jh 2s 3c]
@@ -5449,7 +5216,6 @@ Seat 2: s70n3fac3 (23078 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6s 7c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: folds 
 Uncalled bet (100) returned to s70n3fac3
@@ -5469,7 +5235,6 @@ Seat 2: s70n3fac3 (23178 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qd 4s]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -5488,7 +5253,6 @@ Seat 2: s70n3fac3 (23078 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Th 4h]
 s70n3fac3: raises 100 to 200
 FDIBA2009: folds 
 Uncalled bet (100) returned to s70n3fac3
@@ -5508,7 +5272,6 @@ Seat 2: s70n3fac3 (23178 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9c 8c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [7d Ks Kd]
@@ -5535,7 +5298,6 @@ Seat 2: s70n3fac3 (22978 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9s 4d]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5553,7 +5315,6 @@ Seat 2: s70n3fac3 (22928 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ad Ac]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: folds 
@@ -5574,7 +5335,6 @@ Seat 2: s70n3fac3 (23128 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [2d 3c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5592,7 +5352,6 @@ Seat 2: s70n3fac3 (23078 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h Ah]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: calls 300
@@ -5621,7 +5380,6 @@ Seat 2: s70n3fac3 (22078 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Th Kh]
 s70n3fac3: raises 100 to 200
 FDIBA2009: raises 300 to 500
 s70n3fac3: calls 300
@@ -5650,7 +5408,6 @@ Seat 2: s70n3fac3 (22968 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Tc Kc]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 200 to 400
 FDIBA2009: calls 200
@@ -5684,7 +5441,6 @@ Seat 2: s70n3fac3 (22268 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6d 2c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5702,7 +5458,6 @@ Seat 2: s70n3fac3 (22218 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h 7h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Ac 8c 3c]
@@ -5726,7 +5481,6 @@ Seat 2: s70n3fac3 (22018 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6s Jd]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5744,7 +5498,6 @@ Seat 2: s70n3fac3 (21968 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ah 7h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Th Kd 9c]
@@ -5775,7 +5528,6 @@ Seat 2: s70n3fac3 (22680 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ts Ac]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 500 to 750
 s70n3fac3: calls 500
@@ -5799,7 +5551,6 @@ Seat 2: s70n3fac3 (21930 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7c Ah]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [4h Js 2d]
@@ -5826,7 +5577,6 @@ Seat 2: s70n3fac3 (22108 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4c Ac]
 s70n3fac3: raises 100 to 200
 FDIBA2009: raises 400 to 600
 s70n3fac3: calls 400
@@ -5853,7 +5603,6 @@ Seat 2: s70n3fac3 (20908 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jh Kh]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: folds 
@@ -5874,7 +5623,6 @@ Seat 2: s70n3fac3 (21108 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4s Jd]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5892,7 +5640,6 @@ Seat 2: s70n3fac3 (21058 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4s 7c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -5911,7 +5658,6 @@ Seat 2: s70n3fac3 (20958 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [4c 9s]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -5929,7 +5675,6 @@ Seat 2: s70n3fac3 (20908 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Jd 4h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -5948,7 +5693,6 @@ Seat 2: s70n3fac3 (20808 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h Ah]
 s70n3fac3: raises 100 to 200
 FDIBA2009: folds 
 Uncalled bet (100) returned to s70n3fac3
@@ -5968,7 +5712,6 @@ Seat 2: s70n3fac3 (20908 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5s 9c]
 FDIBA2009: raises 100 to 200
 s70n3fac3: folds 
 Uncalled bet (100) returned to FDIBA2009
@@ -5987,7 +5730,6 @@ Seat 2: s70n3fac3 (20808 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qh 8d]
 s70n3fac3: raises 150 to 250
 FDIBA2009: folds 
 Uncalled bet (150) returned to s70n3fac3
@@ -6007,7 +5749,6 @@ Seat 2: s70n3fac3 (20908 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Td 2d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [5s Kc Ah]
@@ -6031,7 +5772,6 @@ Seat 2: s70n3fac3 (20708 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8s 6c]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [9s 8d 5d]
@@ -6062,7 +5802,6 @@ Seat 2: s70n3fac3 (19908 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6s 6d]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [4s 3h 8c]
@@ -6094,7 +5833,6 @@ Seat 2: s70n3fac3 (18238 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6h 6s]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [Ks 3s 6d]
@@ -6126,7 +5864,6 @@ Seat 2: s70n3fac3 (18861 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [6c 3d]
 FDIBA2009: folds 
 Uncalled bet (50) returned to s70n3fac3
 s70n3fac3 collected 100 from pot
@@ -6145,7 +5882,6 @@ Seat 2: s70n3fac3 (18911 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [3h Jh]
 s70n3fac3: raises 100 to 200
 FDIBA2009: folds 
 Uncalled bet (100) returned to s70n3fac3
@@ -6165,7 +5901,6 @@ Seat 2: s70n3fac3 (19011 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5c 8c]
 FDIBA2009: folds 
 Uncalled bet (50) returned to s70n3fac3
 s70n3fac3 collected 100 from pot
@@ -6184,7 +5919,6 @@ Seat 2: s70n3fac3 (19061 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Qh 2c]
 s70n3fac3: folds 
 Uncalled bet (50) returned to FDIBA2009
 FDIBA2009 collected 100 from pot
@@ -6202,7 +5936,6 @@ Seat 2: s70n3fac3 (19011 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [9h Ks]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [Qc 8c 2c]
@@ -6229,7 +5962,6 @@ Seat 2: s70n3fac3 (18811 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [7d 9s]
 s70n3fac3: raises 100 to 200
 FDIBA2009: calls 100
 *** FLOP *** [3d Ah 6c]
@@ -6258,7 +5990,6 @@ Seat 2: s70n3fac3 (19167 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Th Ah]
 FDIBA2009: raises 100 to 200
 s70n3fac3: raises 300 to 500
 FDIBA2009: calls 300
@@ -6291,7 +6022,6 @@ Seat 2: s70n3fac3 (15967 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ac 9c]
 s70n3fac3: raises 150 to 250
 FDIBA2009: raises 250 to 500
 s70n3fac3: calls 250
@@ -6324,7 +6054,6 @@ Seat 2: s70n3fac3 (17569 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [8c 9d]
 FDIBA2009: folds 
 Uncalled bet (50) returned to s70n3fac3
 s70n3fac3 collected 100 from pot
@@ -6343,7 +6072,6 @@ Seat 2: s70n3fac3 (17619 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Ts Ks]
 s70n3fac3: raises 200 to 300
 FDIBA2009: calls 200
 *** FLOP *** [7s 2c 6d]
@@ -6374,7 +6102,6 @@ Seat 2: s70n3fac3 (17019 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [5h 6h]
 FDIBA2009: raises 100 to 200
 s70n3fac3: calls 100
 *** FLOP *** [8d Kc Ts]
@@ -6406,7 +6133,6 @@ Seat 2: s70n3fac3 (17909 in chips)
 s70n3fac3: posts small blind 50
 FDIBA2009: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [As Qs]
 s70n3fac3: raises 150 to 250
 FDIBA2009: calls 150
 *** FLOP *** [4s 7s 6h]
@@ -6438,7 +6164,6 @@ Seat 2: s70n3fac3 (21422 in chips)
 FDIBA2009: posts small blind 50
 s70n3fac3: posts big blind 100
 *** HOLE CARDS ***
-Dealt to s70n3fac3 [Kh As]
 FDIBA2009: raises 1700 to 1800
 s70n3fac3: raises 19622 to 21422 and is all-in
 FDIBA2009: calls 12154 and is all-in

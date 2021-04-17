@@ -1,6 +1,6 @@
-#resTAble {
+#resTable {
   float: left;
-  width: 55%;
+  width: 100%;
 }
 
 body {
@@ -36,7 +36,7 @@ a {
 th {
   color: #d5dde5;
   background: #1b1e24;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 100;
   padding: 6px;
   text-align: left;

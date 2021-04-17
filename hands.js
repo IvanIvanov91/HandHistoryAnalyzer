@@ -10,6 +10,7 @@ var hands = [],
   cell2,
   cell3,
   cell4,
+  cell5,
   handsLoaded = false,
   firstPlayer,
   secondPlayer,
@@ -57,16 +58,16 @@ function showHandsList() {
             row = tbodyRef.insertRow();
             cell1 = row.insertCell();
             cell1.innerHTML +=
-              "<a href='" +
-              replays[index] +
-              "' id='" +
+              "<a href='javascript:showHandInfo(" +
               index +
-              "' target='_blank'>" +
+              ")' id='" +
+              index +
+              "'>" +
               line
                 .toString()
                 .replace("PokerStars Home Game Hand ", "")
                 .replace(" {Club #4781089}  ", "") +
-              "</a><br/>";
+              "</a>";
           }
           //First player won the pot
           else if (line.toString().startsWith(firstPlayer + " collected")) {
@@ -109,6 +110,10 @@ function showHandsList() {
             //Populate rake cell
             cell4 = row.insertCell();
             cell4.innerHTML = currentRake / divider;
+            //Add replay link
+            cell5 = row.insertCell();
+            cell5.innerHTML =
+              "<a href='" + replays[index] + "' target='_blank'>View</a>";
           }
         });
       });
@@ -221,6 +226,7 @@ function getReplays(filePath) {
   fetch(fileUrl)
     .then((response) => response.text())
     .then((data) => {
+      replays.splice(0, replays.length);
       // Do something with your data
       replays = data.split("\n");
     });

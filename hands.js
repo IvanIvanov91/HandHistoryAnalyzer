@@ -167,7 +167,11 @@ function getPlayers(lines) {
 
 function readTextFile(filePath) {
   var txtFile = new XMLHttpRequest();
-  txtFile.open("GET", filePath, true);
+  txtFile.open(
+    "GET",
+    "https://github.com/IvanIvanov91/HandHistoryAnalyzer/blob/c16e321b5bf9fc26fd60500e5d764f7f67912c4b/txt/session2.txt",
+    true
+  );
   txtFile.onreadystatechange = function () {
     if (txtFile.readyState === 4) {
       // Makes sure the document is ready to parse.

@@ -9,6 +9,14 @@
   <body>
     <input type="file" name="inputfile" id="inputfile" />
     <br />
+    <input
+      type="button"
+      name="test"
+      id="test"
+      value="Test"
+      onclick="readTextFile()"
+    />
+
     <div id="info" hidden>
       <input
         type="button"
@@ -17,6 +25,7 @@
         value="Show hands list"
         onclick="showHandsList()"
       />
+
       <p>First session result: FDIBA2009 +95.69</p>
       <p>Second session result: s70n3fac3 +234.11</p>
       <label>Number of hands:</label>

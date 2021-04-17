@@ -165,9 +165,13 @@ function getPlayers(lines) {
   });
 }
 
-function readTExtFile() {
+function readTextFile() {
   var txtFile = new XMLHttpRequest();
-  txtFile.open("GET", "http://my.remote.url/myremotefile.txt", true);
+  txtFile.open(
+    "GET",
+    "txt/HH20210415 VTPP NLHE - 50-100 - Play Money No Limit Hold'em - 1 on 1.txt",
+    true
+  );
   txtFile.onreadystatechange = function () {
     if (txtFile.readyState === 4) {
       // Makes sure the document is ready to parse.

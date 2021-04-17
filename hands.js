@@ -213,7 +213,7 @@ function readTextFile(filePath) {
 
 function getReplays(filePath) {
   const fileUrl =
-    "https://ivanivanov91.github.io/HandHistoryAnalyzer/txt" +
+    "https://ivanivanov91.github.io/HandHistoryAnalyzer/txt/" +
     filePath +
     "replays.txt"; // provide file location
 

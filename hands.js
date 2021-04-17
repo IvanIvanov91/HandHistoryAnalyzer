@@ -10,7 +10,10 @@ var hands = [],
   cell2,
   cell3,
   cell4,
-  handsLoaded = false;
+  handsLoaded = false,
+  player,
+  opponent,
+  divider;
 
 $(document).ready(function () {
   document.getElementById("inputfile").addEventListener("change", function () {
@@ -21,7 +24,7 @@ $(document).ready(function () {
       // Replace end of hand symbols with new lines
       hands.splice(0, hands.length);
       $("#resTable tbody").empty();
-
+      $("#sessionInfo").hide();
       handsLoaded = false;
       var text = this.result.replace(/(\r\n|\n|\r)/gm, "<br/>");
 
@@ -35,10 +38,13 @@ $(document).ready(function () {
 //Number of hands played
 function countHands(text) {
   hands = text.split("<br/><br/><br/><br/>");
-  document.getElementById("handNumber").textContent = hands.length - 1;
+  $("#handNumber").text(hands.length - 1);
 }
 
 function showHandsList() {
+  $("#sessionInfo").show();
+
+  getPlayers(hands[0].toString().split("<br/>"));
   var button = document.getElementById("showHands");
   if (button.value == "Show hands list") {
     if (!handsLoaded) {
@@ -53,6 +59,10 @@ function showHandsList() {
         var lines = hand.toString().split("<br/>");
         lines.forEach((line) => {
           if (line.toString().startsWith("PokerStars Home Game Hand #")) {
+            if (line.toString().includes("Hold'em No Limit")) {
+              divider = 100;
+            }
+
             var tbodyRef = document
               .getElementById("resTable")
               .getElementsByTagName("tbody")[0];
@@ -66,15 +76,16 @@ function showHandsList() {
               "'>" +
               line.toString().split("PokerStars Home Game Hand ")[1] +
               "</a><br/>";
-          } else if (line.toString().startsWith("s70n3fac3 collected")) {
+          } else if (line.toString().startsWith(player + " collected")) {
             isMyRake = true;
             splitPot = !splitPot;
-          } else if (line.toString().startsWith("FDIBA2009 collected")) {
+          } else if (line.toString().startsWith(opponent + " collected")) {
             isMyRake = false;
             splitPot = !splitPot;
           } else if (line.toString().includes("Rake ")) {
             cell2 = row.insertCell();
-            var potSize = parseInt(line.split("Total pot ")[1].split(" | ")[0]);
+            var potSize =
+              parseInt(line.split("Total pot ")[1].split(" | ")[0]) / divider;
             cell2.innerHTML = potSize;
 
             var currentRake = parseInt(line.split("Rake ")[1]);
@@ -87,31 +98,32 @@ function showHandsList() {
               opponentRake += currentRake / 2;
             } else if (isMyRake) {
               myRake += currentRake;
-              cell3.innerHTML = "s70n3fac3";
+              cell3.innerHTML = player;
             } else {
               opponentRake += currentRake;
-              cell3.innerHTML = "FDIBA2009";
+              cell3.innerHTML = opponent;
             }
             cell4 = row.insertCell();
-            cell4.innerHTML = currentRake;
+            cell4.innerHTML = currentRake / divider;
           }
         });
       });
     }
     button.value = "Hide hands list";
+
     $("#resTable").show();
-    pagination();
   } else {
     $("#resTable").hide();
     button.value = "Show hands list";
   }
-  document.getElementById("totalRake").textContent = rake;
-  document.getElementById("myRake").textContent = myRake;
-  document.getElementById("opponentRake").textContent = opponentRake;
+
+  $("#totalRake").text(rake / divider);
+  $("#myRake").text(myRake / divider);
+  $("#opponentRake").text(opponentRake / divider);
 }
 
 function showHandInfo(index) {
-  document.getElementById("handInfo").innerHTML = hands[index];
+  $("#handInfo").html(hands[index]);
 }
 
 $("th").click(function () {
@@ -139,4 +151,32 @@ function comparer(index) {
 }
 function getCellValue(row, index) {
   return $(row).children("td").eq(index).text();
+}
+
+function getPlayers(lines) {
+  lines.forEach((line) => {
+    if (line.toString().startsWith("Seat 1:")) {
+      player = line.toString().split("Seat 1: ")[1].split(" (")[0];
+      $("#lblMyRake").text(player + " rake:");
+    } else if (line.toString().startsWith("Seat 2:")) {
+      opponent = line.toString().split("Seat 2: ")[1].split(" (")[0];
+      $("#lblOppRake").text(opponent + " rake:");
+    }
+  });
+}
+
+function readTExtFile() {
+  var txtFile = new XMLHttpRequest();
+  txtFile.open("GET", "http://my.remote.url/myremotefile.txt", true);
+  txtFile.onreadystatechange = function () {
+    if (txtFile.readyState === 4) {
+      // Makes sure the document is ready to parse.
+      if (txtFile.status === 200) {
+        // Makes sure it's found the file.
+        allText = txtFile.responseText;
+        lines = txtFile.responseText.split("\n"); // Will separate each line into an array
+      }
+    }
+  };
+  txtFile.send(null);
 }

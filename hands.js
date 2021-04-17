@@ -188,7 +188,9 @@ function getPlayers(lines) {
 //Read text file from server
 function readTextFile(filePath) {
   const fileUrl =
-    "https://ivanivanov91.github.io/HandHistoryAnalyzer/" + filePath; // provide file location
+    "https://ivanivanov91.github.io/HandHistoryAnalyzer/txt/" +
+    filePath +
+    ".txt"; // provide file location
 
   fetch(fileUrl)
     .then((response) => response.text())
@@ -205,5 +207,21 @@ function readTextFile(filePath) {
       handsLoaded = false;
       $("#info").show();
       countHands(text);
+      getReplays(filePath);
+    });
+}
+
+function getReplays(filePath) {
+  const fileUrl =
+    "https://ivanivanov91.github.io/HandHistoryAnalyzer/txt" +
+    filePath +
+    "replays.txt"; // provide file location
+
+  fetch(fileUrl)
+    .then((response) => response.text())
+    .then((data) => {
+      // Do something with your data
+      var text = data;
+      console.log(text);
     });
 }
